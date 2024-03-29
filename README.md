@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @9jamie
 - 👀 I'm a Product Designer who likes playing with code.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m working on my HTML, CSS and JS skills.
 - 💞️ I’m looking to collaborate on UX/Frontend projects, and make new friends.
 - 📫 jamie@jamieryan.ie
